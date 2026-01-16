@@ -14,10 +14,10 @@
 
 ### Warum Three.js?
 - 3D Grafiken im Browser - visuell beeindruckend
-- JavaScript (kenne ich bereits)
+- JavaScript
 - Sofort sichtbare Resultate
 - Viele Tutorials verfügbar
-- Macht Spaß und ist kreativ
+- Macht Spass und ist kreativ
 
 ### Ziel:
 Am Ende eine interaktive 3D-Szene im Browser erstellen und ein Tutorial darüber schreiben.
@@ -34,11 +34,11 @@ Am Ende eine interaktive 3D-Szene im Browser erstellen und ein Tutorial darüber
 
 ### Was ich gemacht habe:
 
-[Hier dokumentierst du was du gemacht hast]
+
 
 ### Probleme & Lösungen:
 
-[Hier schreibst du Probleme die du hattest]
+
 
 ### Hilfreiche Links:
 
@@ -57,11 +57,11 @@ Am Ende eine interaktive 3D-Szene im Browser erstellen und ein Tutorial darüber
 
 ### Was ich gemacht habe:
 
-[Wird heute ausgefüllt]
+
 
 ### Hilfreiche Links:
 
-[Wird heute ausgefüllt]
+
 
 ---
 
