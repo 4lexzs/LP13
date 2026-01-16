@@ -65,7 +65,7 @@ Keine grösseren Probleme. Setup hat gut funktioniert.
 ## Tag 2 - 3D Objekte & Interaktion (16.1.2025)
 
 ### Arbeitspakete:
-- [ ] Verschiedene Geometrien ausprobieren (Kugel, Zylinder, etc.)
+- [x] Verschiedene Geometrien ausprobieren (Kugel, Zylinder, etc.)
 - [ ] Materialien und Texturen
 - [ ] Mehrere Objekte in einer Szene
 - [ ] Maus-Interaktion hinzufügen
