@@ -27,23 +27,38 @@ Am Ende eine interaktive 3D-Szene im Browser erstellen und ein Tutorial darüber
 ## Tag 1 - Setup & Hello World (9.1.2025)
 
 ### Arbeitspakete:
-- [ ] Three.js Setup mit HTML/JavaScript
-- [ ] Erste rotierende Box erstellen
-- [ ] Kamera und Licht verstehen
-- [ ] Tutorial recherchieren
+- [X] Three.js Setup mit HTML/JavaScript
+- [X] Erste rotierende Box erstellen
+- [X] Kamera und Licht verstehen
+- [X] Tutorial recherchieren
 
 ### Was ich gemacht habe:
 
+**Setup:**
+- `index.html` erstellt mit Three.js CDN
+- `main.js` erstellt mit Scene, Camera, Renderer
+- Live Server in VS Code zum Testen
 
+**Hello World:**
+- Erste rotierende grüne Box erstellt
+- Box rotiert auf X und Y Achse
+- Animation-Loop funktioniert
+
+**Eigene Anpassungen:**
+- Farbe von grün auf rot geändert (`0xff0000`)
+- Box-Grösse angepasst
+- Rotationsgeschwindigkeit experimentiert
 
 ### Probleme & Lösungen:
 
-
+Keine grösseren Probleme. Setup hat gut funktioniert.
 
 ### Hilfreiche Links:
 
-- [Link 1]
-- [Link 2]
+- [Three.js Official Docs](https://threejs.org/docs/)
+- [Three.js Manual](https://threejs.org/manual/)
+- [Three.js Fundamentals](https://threejsfundamentals.org/)
+- [YouTube: Three.js Crash Course](https://www.youtube.com/watch?v=xJAfLdUgdc4)
 
 ---
 
