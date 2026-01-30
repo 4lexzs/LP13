@@ -67,8 +67,8 @@ Keine grösseren Probleme. Setup hat gut funktioniert.
 ### Arbeitspakete:
 - [X] Verschiedene Geometrien ausprobieren (Kugel, Zylinder, etc.)
 - [X] Materialien und Texturen
-- [ ] Mehrere Objekte in einer Szene
-- [ ] Maus-Interaktion hinzufügen
+- [X] Mehrere Objekte in einer Szene
+- [X] Maus-Interaktion hinzufügen
 
 ### Was ich gemacht habe:
 <img width="2864" height="1514" alt="image" src="https://github.com/user-attachments/assets/e601c8b4-1772-48a2-8072-f42864a42e36" />
