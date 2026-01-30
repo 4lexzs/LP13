@@ -83,19 +83,17 @@ Keine grösseren Probleme. Setup hat gut funktioniert.
 
 ## Tag 3 - Planung (23.1.2025)
 
-> Wird am Ende von Tag 2 geplant
-
 ### Arbeitspakete:
-1. [Arbeitspaket 1]
-2. [Arbeitspaket 2]
-3. [Arbeitspaket 3]
-4. [Arbeitspaket 4]
+- [X] Texturen laden: Echte Bilder (z.B. Erden-Textur oder Holz) auf die 3D-Objekte legen
+- [X] OrbitControls: Die Bibliothek einbinden, damit man die Szene mit der Maus drehen und zoomen kann.
+- [X] Eigene Projekt-Idee: Planung einer konkreten Szene (z.B. ein kleines Sonnensystem oder ein Wald).
+- [X] Umsetzung Start: Aufbau der Grundstruktur für das finale Projekt.
 
 ---
 
 ## Tag 4 - Planung (30.1.2025)
 
-> Wird am Ende von Tag 3 geplant
+
 
 ### Arbeitspakete:
 1. [Arbeitspaket 1]
