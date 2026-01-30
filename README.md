@@ -96,5 +96,7 @@ Keine grösseren Probleme. Setup hat gut funktioniert.
 
 
 ### Arbeitspakete:
-1. [Arbeitspaket 1]
-2. Tutorial schreiben
+- [ ] Finales Projekt-Design: Letzte Details an der 3D-Szene (z.B. Hintergrundfarbe, Nebel oder Partikel) anpassen.
+- [ ] Tutorial Teil 1: Erstellen einer Schritt-für-Schritt-Anleitung für Anfänger (Setup & Scene).
+- [ ] Tutorial Teil 2: Dokumentation der fortgeschrittenen Funktionen (Licht, Schatten und OrbitControls).
+- [ ] Deployment & Review: Das Projekt via GitHub Pages live schalten und die Dokumentation final prüfen.
